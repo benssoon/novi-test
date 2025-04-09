@@ -1,0 +1,1 @@
+Once you have added a file, it doesn't go away when added to .gitignore. .gitignore seems to prevent files from being added to the repo for the first time. Once they're there, .gitignore doesn't do anything to them.
